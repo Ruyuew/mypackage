@@ -8,7 +8,7 @@ You can install the development version from GitHub:
 
 ```r
 # if (!require('devtools')) install.packages('devtools')
-devtools::install_github('yourusername/mypackage')
+devtools::install_github('ruyuew/mypackage')
 ```
 
 ## Usage
